@@ -6,7 +6,7 @@
 * Prerequisites
 * Installation
 * Contribution
-* Maintainers
+
 
 
 
