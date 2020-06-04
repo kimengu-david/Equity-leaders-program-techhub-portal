@@ -15,7 +15,14 @@ The ELP techhub web portal is a project meant for management of Equity leaders p
 It makes it easier for members to sign up for meetups, join project teams, get internal job advertisements and news all in real  time.</br>The management of the team is also able to generate daily reports in form of pdf and online versions. All these features come in a creatively designed dashboard which is accessible after login.</br>
 
 The project is currently undergoing testing and is hosted on heroku. check it out in this link.
-(http://mysterious-eyrie-20096.herokuapp.com/)
+(http://mysterious-eyrie-20096.herokuapp.com/). For testing you can create your own account or use the following details</br>
+for admin account  use these details.</br>
+**email**: admintesting@gmail.com</br>
+**password**: testing@123Testing</br>
+for a normal user use the following details.</br>
+**email**: projecttesting@gmail.com </br>
+**password**: testing@123Testing</br>
+                           
 
 The following are sample screenshots of the project running. These dashboards are only accessible after a user visits the portal homepage and logs into the dashboard.</br>
 **Admin Dashboard**
