@@ -29,7 +29,7 @@ The following are sample screenshots of the project running. These dashboards ar
 ![Alt Text](https://davikani.s3.eu-west-3.amazonaws.com/githubProjectsImages/ELPtechhub/adminpanel2.png)
 **Normal user dashboard showing the techhub wallet section where users can download their instant statements.**
 ![Alt Text](https://davikani.s3.eu-west-3.amazonaws.com/githubProjectsImages/ELPtechhub/user.png)
-**Admins are able to generate attendees of any meetup organized among many other reports.   Reports are automatic and real time.**
+**Admins are able to generate attendees reports in form of pdfs of any meetup organized among many other reports.   Reports are automatic and real time.**
 ![Alt Text](https://davikani.s3.eu-west-3.amazonaws.com/githubProjectsImages/ELPtechhub/meetups.png)
 **Users are able to get live updates on meetups and projects and receive notifications on the same.**
 ![Alt Text](https://davikani.s3.eu-west-3.amazonaws.com/githubProjectsImages/ELPtechhub/news.png)
