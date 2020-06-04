@@ -15,6 +15,17 @@
 The ELP techhub web portal is a project meant for management of Equity leaders program scholars in tech and tech related fields.</br>
 It makes it easier for members to sign up for meetups, join project teams, get internal job advertisements and news all in real  time.</br>The management of the team is also able to generate daily reports in form of pdf and online versions. All these features come in a creatively designed dashboard which is accessible after login.
 
+The following are sample screenshots of the project running. These dashboards are only accessible after a user visits the portal homepage and logs into the dashboard.</br>
+**Admin Dashboard**
+![Alt Text](https://davikani.s3.eu-west-3.amazonaws.com/githubProjectsImages/ELPtechhub/adminpanel2.png)
+**Normal user dashboard showing the techhub wallet section where users can download their instant statements.**
+![Alt Text](https://davikani.s3.eu-west-3.amazonaws.com/githubProjectsImages/ELPtechhub/user.png)
+**Admins are able to generate attendees of any meetup organized among many other reports.   Reports are automatic and real time.**
+![Alt Text](https://davikani.s3.eu-west-3.amazonaws.com/githubProjectsImages/ELPtechhub/meetups.png))
+**Users are able to get live updates on meetups and projects and receive notifications on the same.**
+![Alt Text](https://davikani.s3.eu-west-3.amazonaws.com/githubProjectsImages/ELPtechhub/news.png))
+**Normal user dashboard showing the techhub wallet section where users can download their instant statements.**
+![Alt Text](https://davikani.s3.eu-west-3.amazonaws.com/githubProjectsImages/ELPtechhub/user.png))
 
 ### Main Technologies </br>
 1.Laravel 6.0.</br>
@@ -42,8 +53,7 @@ Very the installation by printing the composer version.
 ```bash
 composer --version
 ```
-### Installation. </br>.
-
+### Installation. </br>
 1.Clone the repo and navigate to the downloaded folder.
 ```bash
 git clone https://github.com/kimengu-david/Equity-leaders-program-techhub-portal
