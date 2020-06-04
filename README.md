@@ -1,9 +1,13 @@
 # Equity-leaders-program-techhub-portal
 
-#Table of contents.
-1.Introduction. 
-2.Technologies. 
-3.Installation. 
-4.Troubleshooting and FAQs. 
-5.Maintainers. 
+# Table of contents.</br>
+
+1.Introduction.</br>
+2.Technologies. </br>
+3.Installation.</br> 
+4.Troubleshooting and FAQs. </br>
+5.Maintainers. </br>
+
+
+
  
