@@ -1,13 +1,12 @@
 # Equity-leaders-program-techhub-portal
 
 ### Table of contents.</br>
-
-#### 1.Introduction.</br>
-#### 2.Technologies. </br>
-#### 3.Prerequisites. </br>
-#### 3.Installation.</br> 
-#### 5.Contribution. </br>
-#### 5.Maintainers. </br>
+* Introduction
+* Technologies
+* Prerequisites
+* Installation
+* Contribution
+* Maintainers
 
 
 
@@ -80,7 +79,7 @@ php artisan serve
 
 
 
-### Contributing
+### Contribution.
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.</br>
 Any contributions that you make are greatly appreaciated.
   
