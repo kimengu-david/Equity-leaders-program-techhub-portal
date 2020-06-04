@@ -12,7 +12,10 @@
 
 ### Introduction </br>
 The ELP techhub web portal is a project meant for management of Equity leaders program scholars in tech and tech related fields. This is my contribution in the development of the portal.</br>
-It makes it easier for members to sign up for meetups, join project teams, get internal job advertisements and news all in real  time.</br>The management of the team is also able to generate daily reports in form of pdf and online versions. All these features come in a creatively designed dashboard which is accessible after login.
+It makes it easier for members to sign up for meetups, join project teams, get internal job advertisements and news all in real  time.</br>The management of the team is also able to generate daily reports in form of pdf and online versions. All these features come in a creatively designed dashboard which is accessible after login.</br>
+
+The project is currently undergoing testing and is hosted on heroku. check it out in this link.
+(http://mysterious-eyrie-20096.herokuapp.com/)
 
 The following are sample screenshots of the project running. These dashboards are only accessible after a user visits the portal homepage and logs into the dashboard.</br>
 **Admin Dashboard**
