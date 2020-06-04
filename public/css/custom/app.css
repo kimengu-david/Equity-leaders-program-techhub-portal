@@ -1,0 +1,272 @@
+.navbar-brand img {
+    display: inline-block;
+    height: 2rem;
+    padding-top: 0.32rem;
+    padding-bottom: 0.32rem;
+    margin-right: 1rem;
+    font-size: 1.125rem;
+    line-height: inherit;
+    white-space: nowrap;
+}
+
+.navbar {
+    position: relative;
+    font-weight: 700;
+    font-size: 0.9rem;
+    letter-spacing: 0.1rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.5rem 1rem;
+    text-transform: uppercase;
+}
+
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #1ebba3;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
+/*The following are the fixed properties of the landing section*/
+/*--- Extra Bootstrap Column Padding --*/
+[class*="col-"] {
+    padding: 1rem;
+}
+
+/*--- Bootstrap Mobile Gutter Fix --*/
+.row,
+.container-fluid {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+
+/*--- Fix for Fixed Navbar jumping on scroll --*/
+.fixed-top {
+    -webkit-backface-visibility: hidden;
+}
+
+/*--- Fixed Landing Page Section --*/
+.landing {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    display: table;
+    z-index: -1;
+}
+.home-wrap {
+    clip: rect(0, auto, auto, 0);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.home-inner {
+    position: fixed;
+    display: table;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center center;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+    will-change: transform;
+}
+
+/*--- iOS Fixed Background Image --*/
+.fixed-background {
+    position: relative;
+    width: 100%;
+}
+.fixed-wrap {
+    clip: rect(0, auto, auto, 0);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -999 !important;
+}
+.fixed {
+    position: fixed;
+    display: block;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center center;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+    will-change: transform;
+}
+
+/*End of fixed css section.*/
+
+.caption {
+    width: 100%;
+    max-width: 100%;
+    position: absolute;
+    top: 25%;
+    text-transform: uppercase;
+    color: white;
+}
+.caption h1 {
+    font-size: 3.8rem;
+    font-weight: 800;
+    letter-spacing: 0.3rem;
+    text-shadow: 0.1rem 0.1rem 0.8rem black;
+    padding-bottom: 1rem;
+}
+
+/*The following is the custom login form css*/
+
+.modal-login {
+    color: #636363;
+    width: 350px;
+}
+.modal-login .modal-content {
+    padding: 20px;
+    border-radius: 5px;
+    border: none;
+}
+.modal-login .modal-header {
+    border-bottom: none;
+    position: relative;
+    justify-content: center;
+}
+.modal-login h4 {
+    text-align: center;
+    font-size: 26px;
+}
+.form-group {
+    position: relative;
+    margin-bottom: 15px;
+}
+.modal-login {
+    position: relative;
+}
+.modal-login .form-group {
+    position: relative;
+}
+.modal-login .form-group .custom {
+    position: absolute;
+    left: 13px;
+    top: 11px;
+    font-size: 18px;
+}
+.modal-login .form-control {
+    padding-left: 40px;
+}
+.modal-login .form-control:focus {
+    border-color: #00ce81;
+}
+.modal-login .form-control,
+.modal-login .btn {
+    min-height: 40px;
+    border-radius: 3px;
+}
+.modal-login .hint-text {
+    text-align: center;
+    padding-top: 10px;
+}
+.modal-login .close {
+    position: absolute;
+    top: -5px;
+    right: -5px;
+}
+.modal-login .btn {
+    background: #00ce81;
+    border: none;
+    line-height: normal;
+}
+.modal-login .btn:hover,
+.modal-login .btn:focus {
+    background: #00bf78;
+}
+.modal-login .modal-footer {
+    background: #ecf0f1;
+    border-color: #dee4e7;
+    text-align: center;
+    margin: 0 -20px -20px;
+    border-radius: 5px;
+    font-size: 13px;
+    justify-content: center;
+}
+.modal-login .modal-footer a {
+    color: #999;
+}
+.trigger-btn {
+    display: inline-block;
+    margin: 100px auto;
+}
+
+/*clients section css*/
+.partners img {
+    width: 100%;
+    border-radius: 50%;
+}
+blockquote .svg-inline--fa {
+    color: #1ebba3;
+    margin: 1rem;
+}
+.partners-hr {
+    border-top: 0.2rem solid #1ebba3;
+}
+.heading-underline {
+    width: 10rem;
+    height: 0.1rem;
+    background-color: #1ebba3;
+    margin: 0 auto 2rem;
+}
+feature svg.svg-inline--fa {
+    color: #1ebba3;
+}
+feature h3 {
+    font-size: 1.3rem;
+    text-transform: uppercase;
+    padding-bottom: 0.4rem;
+}
+feature p {
+    font-size: 1.1rem;
+}
+blockquote {
+    border-left: 0rem;
+    margin: 1rem;
+    background-color: #e9ecef;
+}
+
+/*contact section*/
+
+footer {
+    background-color: #40474e;
+    color: white;
+    padding: 2rem 0 2rem;
+    margin-top: 1rem;
+}
+
+footer img {
+    height: 3rem;
+    margin: 1.5rem 0;
+}
+footer a {
+    color: white;
+}
+
+footer svg.svg-inline--fa {
+    font-size: 1.6rem;
+    margin: 1.2 rem 0.5rem 0 0;
+}
+footer svg.svg-inline--fa:hover {
+    color: #1ebba3 !important;
+}
+
+hr.socket {
+    width: 100%;
+    border-top: 0.2rem solid #666b71;
+    margin-top: 3rem;
+}
