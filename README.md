@@ -30,12 +30,12 @@ The following are sample screenshots of the project running. These dashboards ar
 ![Alt Text](https://davikani.s3.eu-west-3.amazonaws.com/githubProjectsImages/ELPtechhub/user.png)
 
 ### Main Technologies </br>
-1.Laravel 6.0.</br>
-2.Vuejs 2.0.</br>
-3.Php 7.2</br>
-4.Bootstrap 4.0.</br>
-5.Jquery 3.2. </br>
-6.Axios 0.19.2 </br>.
+* *Laravel 6.0.*
+* *Vuejs 2.0.*
+* *Php 7.2*
+* *Bootstrap 4.0*
+* *Jquery 3.2*
+* *Axios 0.19.2*
 
 
 ### Prerequisites </br>
