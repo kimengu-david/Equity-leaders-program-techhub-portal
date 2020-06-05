@@ -83,7 +83,7 @@ php artisan migrate
 ```bash
 php artisan serve
 ```
-6.Open your browse and type http://127.0.0.1:8000 and assuming the installation is successful, You should be able to see the homepage.
+6.Open your browser and type http://127.0.0.1:8000 and assuming the installation is successful, You should be able to see the homepage.
 
 
 
